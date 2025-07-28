@@ -1,0 +1,17 @@
+
+GUÍA DE ACTIVIDAD: Robots de Batalla - Patrón MVC
+
+Objetivo: Comprender el patrón Modelo-Vista-Controlador (MVC) mediante un proyecto interactivo en Python.
+
+Actividad:
+1. Ejecuta el programa actual y observa cómo los robots combaten durante varias rondas.
+2. Modifica el programa para que:
+   a. Los robots tengan escudos (atributo adicional que absorba parte del daño).
+   b. Se puedan registrar más de dos robots y combatir en un torneo.
+   c. Se genere un reporte al final de la batalla con los resultados (ganador, energía restante, rondas jugadas).
+
+Bonus:
+- Implementa una "habilidad especial" para cada robot.
+
+Entrega:
+- Sube tus archivos modificados en una carpeta con tu nombre y un archivo README.txt con una breve explicación de los cambios.
